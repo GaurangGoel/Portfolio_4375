@@ -10,3 +10,5 @@ Linear Models Assignment: Regression Notebook is [here](Regression.pdf) and the 
 ML Algorithms from Scratch Assignment: ML Algorithms from Scratch is [here](ML_Algorithms_from_Scratch.cpp), ML Algorithms from Scratch with Naive Bayes is [here](ML_Algorithms_from_Scratch_NB.cpp), and the document is [here](ML_Algorithms_from_Scratch.pdf)
 
 Searching for Similarity Assignment: Classification Notebook is [here](Classification(SearchingForSimilarity).pdf)
+
+ML with Sklearn is [here](ML_with_sklearn.pdf)
