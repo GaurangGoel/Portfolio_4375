@@ -12,3 +12,5 @@ ML Algorithms from Scratch Assignment: ML Algorithms from Scratch is [here](ML_A
 Searching for Similarity Assignment: Classification Notebook is [here](Classification(SearchingForSimilarity).pdf)
 
 ML with Sklearn is [here](ML_with_sklearn.pdf)
+
+Image Classification is [here](ImageClassification.pdf)
