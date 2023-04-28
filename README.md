@@ -1,4 +1,4 @@
-# Portfolio_4375
+# Gaurang's Portfolio for CS 4375
 All the assignments for Introduction to Machine Learning
 
 Portfolio Setup PDF is [here](Overview_of_ML.pdf)
