@@ -14,6 +14,7 @@ Searching for Similarity Assignment: Classification Notebook is [here](Classific
 ML with Sklearn is [here](ML_with_sklearn.pdf)
 
 Image Classification is [here](ImageClassification.pdf)
+<<<<<<< HEAD
 
 # Summary
 
@@ -26,3 +27,5 @@ Recognizing the dynamic nature of this field, I am dedicated to lifelong learnin
 I'm also interested in turning my interests and abilities into career chances. I am interested in positions where I can use my machine learning talents to tackle real-world challenges while also contributing to a team that values creativity, collaboration, and continual learning.
 
 My ultimate objective is to utilize machine learning to make a significant difference, whether by enhancing corporate operations, contributing to scientific research, or developing products that improve people's lives. I am looking forward to the trip ahead and the chances and difficulties it will offer.
+=======
+>>>>>>> 8c6ca8cb8a1bf729a6032b5337b50a24ad85f7e4
