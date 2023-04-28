@@ -1,7 +1,7 @@
 # Technical Skills:
 
-**Programming Languages:** Python, R, Java, SQL, C++
-**Machine Learning Algorithms:** Linear regression, logistic regression, decision trees, random forest, SVM, k-means clustering, deep learning.
+**Programming Languages:** Python, R, Java, SQL, C++  
+**Machine Learning Algorithms:** Linear regression, logistic regression, decision trees, random forest, SVM, k-means clustering, deep learning.  
 **Libraries/Frameworks:** Scikit-learn, TensorFlow, PyTorch, Keras, Pandas, NumPy, Matplotlib, Seaborn.
 **Statistical Analysis:** Hypothesis testing, regression analysis, Bayesian statistics.
 **Data Wrangling:** Data cleaning, data transformation, handling missing data.
